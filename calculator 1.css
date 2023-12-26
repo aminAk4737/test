@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(177, 191, 199);
+   text-align: center;
+}
+#one {
+    width: 50px;
+    height: 50px;
+}
+#two {
+    width: 50px;
+    height: 50px;
+}
+#three {
+    width: 50px;
+    height: 50px;
+}
+#four {
+    width: 50px;
+    height: 50px;
+}
+#five {
+    width: 50px;
+    height: 50px;
+}
+#six {
+    width: 50px;
+    height: 50px;
+}
+#seven {
+    width: 50px;
+    height: 50px;
+}
+#eight {
+    width: 50px;
+    height: 50px;
+}
+#nine {
+    width: 50px;
+    height: 50px;
+}
+#zero {
+    width: 50px;
+    height: 50px;
+}
+#cH{
+    background-color: blue ;
+    width: 50px;
+    height: 50px;
+
+}
+#dot{
+    background-color: blue ;
+    width: 50px;
+    height: 50px;
+}
+#history{
+    background-color: red ;
+    width: 50px;
+    height: 50px;
+}
+#minus {
+    background-color: blue ;
+    width: 50px;
+    height: 50px;
+}
+#add {
+    background-color: blue ;
+    width: 50px;
+    height: 50px;
+}
+#multiple {
+    background-color: blue ;
+    width: 50px;
+    height: 50px;
+}
+#divide {
+    
+    background-color: blue ;
+    width: 50px;
+    height: 50px;
+}
+#clear {
+    background-color:  orange;
+    width: 50px;
+    height: 50px;
+}
+#equal {
+    background-color: rgba(4, 4, 171, 0.728);
+    width: 105px;
+    height: 50px;
+    
+}
+input{
+    height : 50px;
+    width: 260px;
+}
